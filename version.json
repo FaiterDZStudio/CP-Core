@@ -1,0 +1,11 @@
+[
+  {
+    "version": "1.7.1",
+    "date": "2026-11-10",
+    "release-notes": [
+      "- Added a lightweight, non-blocking server-side update checker with console patch notes."
+    ]
+  }
+]
+
+
